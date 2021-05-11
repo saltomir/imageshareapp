@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "593051359164",
+    "project_id": "imagesharer-415b5",
+    "storage_bucket": "imagesharer-415b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593051359164:android:bc211d8599c2ea354dfdb9",
+        "android_client_info": {
+          "package_name": "com.imagesharer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593051359164-dh9sp61m4suqdoofs72aairlv9ap4mmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvKBVAKM2f5iJoeeE2QJikIkem0Z4FFUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593051359164-dh9sp61m4suqdoofs72aairlv9ap4mmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
